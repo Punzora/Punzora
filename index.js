@@ -4,9 +4,9 @@ var request = require('request')
 var app = express()
 var mqtt = require('mqtt');
 // Your Channel access token (long-lived) 
-const CH_ACCESS_TOKEN = 'PXXFGYWCBAfjcJBM9kTHRgpGLAbS0sb6WPeG/upNG9aqXgaFT9JDK2bG1JOAAwfPtyGfJjeJIiULMUBD1qTTDUc6rPb4AJLQQNhTFMERhwvOM8j97g+5l2Sb4y6UHejNBBgFBSSBW1mAvSB20tY0nQdB04t89/1O/w1cDnyilFU=';
+const CH_ACCESS_TOKEN = 'DFnjgf7XJ8t/U2nXvHIcj2e3exiJIabavYasexprRpwGWw0u+UP2GJfrwlffVxydvV0Ds+vvEGaTUFAKfoB4uOoZfVzsJt856pFZ9pwke7b94stwDC9KUKiujQzCLHQ/djCM+fLB0NNsqEI+DXA4LgdB04t89/1O/w1cDnyilFU=';
 // MQTT Host
-var mqtt_host = 'mqtt://postman.cloudmqtt.com';
+var mqtt_host = 'postman.cloudmqtt.com';
 // MQTT Topic
 var mqtt_topic = '/ESP';
 // MQTT Config
