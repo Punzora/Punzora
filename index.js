@@ -12,7 +12,7 @@ var mqtt_topic = '/ESP';
 // MQTT Config
 var options = {
     port: 12108,
-    host: 'mqtt://postman.cloudmqtt.com',
+    host: 'postman.cloudmqtt.com',
     clientId: 'mqttjs_' + Math.random().toString(16).substr(2, 8),
     username: 'pdudmdjv',
     password: 'ubN7eIyETvGp',
