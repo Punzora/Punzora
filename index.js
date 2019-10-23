@@ -121,7 +121,7 @@ function sendText (sender, text) {
       }
     ],
     "thumbnailImageUrl": "https://yt3.ggpht.com/a-/AAuE7mDIwl8UZy1HlNWiFo0kFOh9HVeubcKKepEDtQ=s900-mo-c-c0xffffffff-rj-k-no",
-    "title": "IOT By DNP (สำหรับเปิด)",
+    "title": "IOT  (สำหรับเปิด)",
     "text": "สำหรับเปิด (ต้องการปิดให้พิมพ์ \"ปิดไฟ\")"
   }
 }
@@ -548,7 +548,7 @@ function ledOffl (sender, text) {
       }
     ],
     "thumbnailImageUrl": "https://yt3.ggpht.com/a-/AAuE7mDIwl8UZy1HlNWiFo0kFOh9HVeubcKKepEDtQ=s900-mo-c-c0xffffffff-rj-k-no",
-    "title": "IOT By DNP (สำหรับปิด)",
+    "title": "IOT  (สำหรับปิด)",
     "text": "สำหรับปิด (ต้องการเปิดให้พิมพ์ \"เปิดไฟ\")"
   }
 }
