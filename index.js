@@ -120,8 +120,11 @@ function sendText (sender, text) {
         "text": "เปิดทั้งหมด"
       }
     ],
-    "thumbnailImageUrl": "https://yt3.ggpht.com/a-/AAuE7mDIwl8UZy1HlNWiFo0kFOh9HVeubcKKepEDtQ=s900-mo-c-c0xffffffff-rj-k-no",
-    "title": "IOT  (สำหรับเปิด)",
+    //"thumbnailImageUrl": "https://yt3.ggpht.com/a-/AAuE7mDIwl8UZy1HlNWiFo0kFOh9HVeubcKKepEDtQ=s900-mo-c-c0xffffffff-rj-k-no",
+    
+      "thumbnailImageUrl": "https://cdn.shopify.com/s/files/1/0201/8228/products/Festoon-Lighting---Outdoor-String-Lights_34407248-3cdf-46fc-91cd-43b56f62b088_800x.jpg?v=1571438537",
+      
+     "title": "IOT กลุ่ม Got A (สำหรับเปิด)",
     "text": "สำหรับเปิด (ต้องการปิดให้พิมพ์ \"ปิดไฟ\")"
   }
 }
@@ -192,7 +195,7 @@ function ledOn (sender, text) {
     messages: [
         {
         type: 'text',
-        text: 'ไฟดวงที่.1.เปิดเเล้วขอรับนายท่าน'
+        text: 'ไฟดวงที่.1.เปิดเเล้วง้าบบบ'
         }
       
     ]
@@ -236,7 +239,7 @@ function ledOff (sender, text) {
     messages: [
       {
         type: 'text',
-        text: 'ไฟดวงที่.1.ปิดเเล้วขอรับนายท่าน'
+        text: 'ไฟดวงที่.1.ปิดเเล้วง้าบบบ'
       }
     ]
   }
@@ -280,7 +283,7 @@ function ledOn2 (sender, text) {
     messages: [
       {
         type: 'text',
-        text: 'ไฟดวงที่.2.เปิดเเล้วขอรับนายท่าน'
+        text: 'ไฟดวงที่.2.เปิดเเล้วง้าบบบ'
       }
     ]
   }
@@ -323,7 +326,7 @@ function ledOff2 (sender, text) {
     messages: [
       {
         type: 'text',
-        text: 'ไฟดวงที่2ปิดเเล้วขอรับนายท่าน'
+        text: 'ไฟดวงที่2ปิดเเล้วง้าบบบ'
       }
     ]
   }
@@ -367,7 +370,7 @@ function ledOn3 (sender, text) {
     messages: [
       {
         type: 'text',
-        text: 'ไฟดวงที่3เปิดเเล้วขอรับนายท่าน'
+        text: 'ไฟดวงที่3เปิดเเล้วง้าบบบ'
       }
     ]
   }
@@ -410,7 +413,7 @@ function ledOff3 (sender, text) {
     messages: [
       {
         type: 'text',
-        text: 'ไฟดวงที่3ปิดเเล้วขอรับนายท่าน'
+        text: 'ไฟดวงที่3ปิดเเล้วง้าบบบ'
       }
     ]
   }
@@ -453,7 +456,7 @@ function ledOnall (sender, text) {
     messages: [
       {
         type: 'text',
-        text: 'ไฟทั้งหมดเปิดเเล้วขอรับนายท่าน'
+        text: 'ไฟทั้งหมดเปิดเเล้วง้าบบบ'
       }
     ]
   }
@@ -496,7 +499,7 @@ function ledOffall (sender, text) {
     messages: [
       {
         type: 'text',
-        text: 'ไฟทั้งหมดปิดเเล้วขอรับนายท่าน'
+        text: 'ไฟทั้งหมดปิดเเล้วง้าบบบ'
       }
     ]
   }
@@ -548,7 +551,7 @@ function ledOffl (sender, text) {
       }
     ],
     "thumbnailImageUrl": "https://yt3.ggpht.com/a-/AAuE7mDIwl8UZy1HlNWiFo0kFOh9HVeubcKKepEDtQ=s900-mo-c-c0xffffffff-rj-k-no",
-    "title": "IOT  (สำหรับปิด)",
+    "title": "IOT กลุ่ม Got A (สำหรับปิด)",
     "text": "สำหรับปิด (ต้องการเปิดให้พิมพ์ \"เปิดไฟ\")"
   }
 }
